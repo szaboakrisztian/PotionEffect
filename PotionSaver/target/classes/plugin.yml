@@ -1,8 +1,0 @@
-name: PotionEffect
-version: 1.0
-main: PotionEffectsPlugin.PotionEffects
-api-version: 1.21
-commands:
-  pt:
-    description: Save and load potion effects
-    usage: /pt <save|load>
